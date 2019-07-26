@@ -1,0 +1,12 @@
+#strings
+x = 'frog'
+
+print(x[3])
+
+#list
+x = ['dog', 'cow', 'horse']
+print(x[1])
+
+#tuple
+x = ('Anmol', 'Aashu', 'Mahi', 'Kohli')
+print(x[0])
